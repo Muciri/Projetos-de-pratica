@@ -1,0 +1,33 @@
+body{
+    font-family: impact;
+    background-color:#000d29
+  }
+  .logo{
+    font-size: 60px;
+    text-align: center;
+    padding-left: 25px;
+    color:#0089ff;
+  }
+  .sublogo{
+    font-size: 20px;
+    text-align: center;
+    padding-left: 25px;
+    color:#0089ff;
+  }
+  .button{
+    background-color: #82b0ff;
+    font-size: 30px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 840px
+    }
+  .button:hover{
+    background-color: #689cfc;
+  }
+  #aparecerNaTela{
+    font-size: 40px;
+    color:#0089ff;
+    margin-top: 30px;
+    margin-left: 880px
+  }
+  

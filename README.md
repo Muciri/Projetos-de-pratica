@@ -1,2 +1,2 @@
-# Projetos-de-pratica
+# Projetos-alura
 projetos que eu fiz para praticar
